@@ -22,3 +22,5 @@ const getUser = async () => {
   }
 };
 getUser();
+
+console.log('Ура Гитхаб');
